@@ -1,0 +1,13 @@
+{
+  "name": "e2e_node",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "apn": "^1.7.4",
+    "bluebird": "^2.10.0",
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.5",
+    "node-geocoder": "^3.0.0"
+  }
+}
